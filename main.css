@@ -1,0 +1,19 @@
+
+/* шрифт */
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+/* сброс и переменные */
+@import url('./base/peremennye.css');
+@import url('./base/sbros.css');
+
+/* компоненты сайта(секции) */
+@import url("./components/header-section.css");
+@import url('./components/titulnik-section.css');
+@import url('./components/case-studies-section.css');
+@import url('./components/contact-section.css');
+@import url('./components/footer-section.css');
+@import url('./components/otzivi.css');
+@import url('./components/ourworking-section.css');
+@import url('./components/samandar.css');
+@import url('./components/services.css');
+@import url('./components/team-section.css');
