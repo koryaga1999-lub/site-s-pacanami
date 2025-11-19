@@ -1,0 +1,44 @@
+ :root {
+    /* Цвета страницы */
+    --main-color-green: #B9FF66;
+    --dop-color1:#191A23;
+    --dop-color2: #F3F3F3;
+
+    /* Шрифт */
+    --font-family: 'Space-Grotesk';
+
+    /* Размеры шрифтов */
+
+    --font-size-xs: 18px;
+    --font-size-sm: 20px;
+    --font-size-base: 30px;
+    --font-size-large: 40px;
+    --font-size-largex2: 60px;
+
+    /* Насыщенность шрифта */
+
+    --font-weight-small: 400;
+    --font-weight-main: 500;
+
+    /* интервалы между строк */
+    --line-height-main: 100%;
+
+    /* переменные отступов */
+    --spacing-padding1: 100px;
+    --spacing-gap1: 40px;
+    --spacing-gap2: 70px; /*(для лого в хедере) */
+    --spacing-padding2: 70 60;
+    --spacing-gap3: 10px;
+    --spacing-team-padding: 40 35;
+
+    /* фиксированные размеры элементов */
+    --header-height: 68px;
+    --button-height: 68px;
+    --container-width:1440px;
+    --section-min-height:630px;
+
+    /* Радиусы скругления углов */
+    --border-radius-1: 14px;
+    --border-radius-large: 45px;
+
+ }
